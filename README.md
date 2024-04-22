@@ -1,5 +1,5 @@
 Hi, my name's Astrid and I'm...
-- 👤 A research engineer in Neurocriminology and science communicator.
+- 👤 A research engineer in neurocriminology and science communicator.
 - 🧑🏻‍🏫 Teaching neuroscience, statistics and programming.
 - 🧠 Interested in cognitive science, computational neuroscience & science mediation.
 - 👀 Currently  working on emotions and moral judgements, as well as the concealment of criminal intentions.
