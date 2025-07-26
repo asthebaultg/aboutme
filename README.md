@@ -1,4 +1,4 @@
-Hi, my name's Astrid and I'm...
+Hi, my name's Atlas and I'm...
 - 🧑🏻‍🔬 a research engineer in Neurocognition and Criminology, as well as a science communicator.
 - 🧑🏻‍🏫 teaching neuroscience, statistics and programming.
 - 🧠 interested in cognitive science, intersectionality & science mediation.
@@ -6,8 +6,8 @@ Hi, my name's Astrid and I'm...
 - 🗣 open to collaborate on anything linked to my interests (and more).
 
 How to...
-- 📫 Reach me: [mail](astrid.thebaultguiochon@gmail.com "mail") or [Twitter](https://twitter.com/astridthebaultg "Twitter").
-- 🧩 See my work and productions: [LinkTree](linktr.ee/astridthebaultg).
+- 📫 Reach me: [mail](a.thebaultg@gmail.com "mail") or [Twitter](https://twitter.com/asthebaultg "Twitter").
+- 🧩 See my work and productions: [LinkTree](linktr.ee/asthebaultg).
 
 
 
