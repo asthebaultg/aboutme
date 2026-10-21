@@ -6,8 +6,8 @@ Hi, my name's Atlas and I'm...
 - 🗣 open to collaborate on anything linked to my interests (and more).
 
 How to...
-- 📫 Reach me: [mail](a.thebaultg@proton.me "mail") or [Twitter](https://twitter.com/asthebaultg "Twitter").
-- 🧩 See my work and productions: [LinkTree](linktr.ee/asthebaultg).
+- 📫 Reach me: [mail](a.thebaultg@proton.me "mail").
+- 🧩 See my work and productions: [Website](https://asthebaultg.github.io) or [LinkTree](linktr.ee/asthebaultg).
 
 
 
